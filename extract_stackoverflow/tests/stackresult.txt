@@ -1,0 +1,240 @@
+Number 1
+This question was asked by: user20330606 with user ID: 20330606
+The title of the question was: 'How to left_join multiple data frames with same dimensions without increasing row numbers?'
+The number of views on the question was: 9
+The link to the question is:https://stackoverflow.com/questions/76317301/how-to-left-join-multiple-data-frames-with-same-dimensions-without-increasing-ro
+The link to user20330606profile image is: https://www.gravatar.com/avatar/345e9df2faf32cfeea8c3796dd160f10?s=256&d=identicon&r=PG
+
+
+Number 2
+This question was asked by: Henry with user ID: 20330606
+The title of the question was: 'ScrollView in KivyMD does not add widgets one at a time'
+The number of views on the question was: 3
+The link to the question is:https://stackoverflow.com/questions/76317320/scrollview-in-kivymd-does-not-add-widgets-one-at-a-time
+The link to Henryprofile image is: https://www.gravatar.com/avatar/8a6128f6a8738fb5f5a6104e6f57bb0b?s=256&d=identicon&r=PG
+
+
+Number 3
+This question was asked by: Patterson with user ID: 20330606
+The title of the question was: 'Databricks Delta Lake table history Error: AnalysisException: Cannot time travel Delta table to version 1. Available versions: [10, 22]'
+The number of views on the question was: 5
+The link to the question is:https://stackoverflow.com/questions/76317006/databricks-delta-lake-table-history-error-analysisexception-cannot-time-travel
+The link to Pattersonprofile image is: https://www.gravatar.com/avatar/4e6b09956495afafc84227ea7b0cec6c?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 4
+This question was asked by: einpoklum with user ID: 20330606
+The title of the question was: 'Is there a generic way to make find_package report what it found and where?'
+The number of views on the question was: 2
+The link to the question is:https://stackoverflow.com/questions/76317360/is-there-a-generic-way-to-make-find-package-report-what-it-found-and-where
+The link to einpoklumprofile image is: https://www.gravatar.com/avatar/10c44e0d9568e48d05708ae196ad936f?s=256&d=identicon&r=PG
+
+
+Number 5
+This question was asked by: vishak raj with user ID: 20330606
+The title of the question was: 'using libtdsodbc.so in a docker container'
+The number of views on the question was: 14
+The link to the question is:https://stackoverflow.com/questions/76315698/using-libtdsodbc-so-in-a-docker-container
+The link to vishak rajprofile image is: https://lh6.googleusercontent.com/-ehg_FFCC3U8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc-PPV6tB2ke9x6K2X239h4CaQ3_A/photo.jpg?sz=256
+
+
+Number 6
+This question was asked by: Dmitry Laevskih with user ID: 20330606
+The title of the question was: 'Selecting a range of days across multiple years'
+The number of views on the question was: 11
+The link to the question is:https://stackoverflow.com/questions/76317137/selecting-a-range-of-days-across-multiple-years
+The link to Dmitry Laevskihprofile image is: https://lh3.googleusercontent.com/a/AGNmyxaaISVwFWlFLPvItKeEpuLm1chESXhK_khy2sKW=k-s256
+
+
+Number 7
+This question was asked by: Nic with user ID: 20330606
+The title of the question was: '.Net Core Rate limit display message based on remaining limit'
+The number of views on the question was: 3
+The link to the question is:https://stackoverflow.com/questions/76317359/net-core-rate-limit-display-message-based-on-remaining-limit
+The link to Nicprofile image is: https://www.gravatar.com/avatar/4c2ae4d36a3183ec2fc1199ec764b9f1?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 8
+This question was asked by: stklik with user ID: 20330606
+The title of the question was: 'set_yticks and ylim for categorical variables'
+The number of views on the question was: 4364
+The link to the question is:https://stackoverflow.com/questions/49395718/set-yticks-and-ylim-for-categorical-variables
+The link to stklikprofile image is: https://i.stack.imgur.com/ir7Wo.jpg?s=256&g=1
+
+
+Number 9
+This question was asked by: Muhammad Khan with user ID: 20330606
+The title of the question was: 'How to get redirected to a welcome page with a passed username prop using Inertia.js in Laravel 9?'
+The number of views on the question was: 23
+The link to the question is:https://stackoverflow.com/questions/76313525/how-to-get-redirected-to-a-welcome-page-with-a-passed-username-prop-using-inerti
+The link to Muhammad Khanprofile image is: https://lh3.googleusercontent.com/a/AEdFTp69EYjqaxfEs226VkOTnLiNbXCSvujsNW6cOUW-EQ=k-s256
+
+
+Number 10
+This question was asked by: gitm with user ID: 20330606
+The title of the question was: 'Python Pandas Duplicate Header Row and Increasing File Size'
+The number of views on the question was: 20
+The link to the question is:https://stackoverflow.com/questions/76317117/python-pandas-duplicate-header-row-and-increasing-file-size
+The link to gitmprofile image is: https://www.gravatar.com/avatar/5e677a728986e744d372ba3b8c1c204d?s=256&d=identicon&r=PG
+
+
+Number 11
+This question was asked by: Tagli94 with user ID: 20330606
+The title of the question was: 'R Studio - Match values in another dataframe with two conditions - row and column'
+The number of views on the question was: 2
+The link to the question is:https://stackoverflow.com/questions/76317357/r-studio-match-values-in-another-dataframe-with-two-conditions-row-and-colum
+The link to Tagli94profile image is: https://www.gravatar.com/avatar/cc954448a31c9a2cde722418994b4d62?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 12
+This question was asked by: Philip Afemikhe with user ID: 20330606
+The title of the question was: 'Laravel date changes to 1st January 1970 when passed from blade template to model in a function call'
+The number of views on the question was: 2
+The link to the question is:https://stackoverflow.com/questions/76317356/laravel-date-changes-to-1st-january-1970-when-passed-from-blade-template-to-mode
+The link to Philip Afemikheprofile image is: https://www.gravatar.com/avatar/b90e09f0453c5cd675ff458558e2444d?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 13
+This question was asked by: ciso with user ID: 20330606
+The title of the question was: 'How to use vstack to stack a variable number of arrays from a single sheet?'
+The number of views on the question was: 169
+The link to the question is:https://stackoverflow.com/questions/76283998/how-to-use-vstack-to-stack-a-variable-number-of-arrays-from-a-single-sheet
+The link to cisoprofile image is: https://i.stack.imgur.com/QSvdp.png?s=256&g=1
+
+
+Number 14
+This question was asked by: Serelia with user ID: 20330606
+The title of the question was: 'A way to widen/lengthen the y area when using a horizontal bar plot'
+The number of views on the question was: 76
+The link to the question is:https://stackoverflow.com/questions/66127882/a-way-to-widen-lengthen-the-y-area-when-using-a-horizontal-bar-plot
+The link to Sereliaprofile image is: https://www.gravatar.com/avatar/e5cbd5ea47f56428acf5a70bf9d580d3?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 15
+This question was asked by: caveman with user ID: 20330606
+The title of the question was: 'How to add new rows to data frame w/ different class?'
+The number of views on the question was: 9
+The link to the question is:https://stackoverflow.com/questions/76317176/how-to-add-new-rows-to-data-frame-w-different-class
+The link to cavemanprofile image is: https://www.gravatar.com/avatar/0c7ea69318682b60a84c5fe828dcbdee?s=256&d=identicon&r=PG
+
+
+Number 16
+This question was asked by: strangledbypython with user ID: 20330606
+The title of the question was: 'How to set individual bar plot&#39;s color'
+The number of views on the question was: 55
+The link to the question is:https://stackoverflow.com/questions/74353324/how-to-set-individual-bar-plots-color
+The link to strangledbypythonprofile image is: https://www.gravatar.com/avatar/20b77e13970e9b7ad20f321d634592a9?s=256&d=identicon&r=PG
+
+
+Number 17
+This question was asked by: matilda chi with user ID: 20330606
+The title of the question was: 'Powershell Write-Output is a default output behaviour. The question is why do we need it at all?'
+The number of views on the question was: 47
+The link to the question is:https://stackoverflow.com/questions/76305996/powershell-write-output-is-a-default-output-behaviour-the-question-is-why-do-we
+The link to matilda chiprofile image is: https://www.gravatar.com/avatar/b5a7b238b41b004ef8c38066195c33d1?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 18
+This question was asked by: HelpASisterOut with user ID: 20330606
+The title of the question was: 'Query comparing dates in SQL'
+The number of views on the question was: 834188
+The link to the question is:https://stackoverflow.com/questions/19924236/query-comparing-dates-in-sql
+The link to HelpASisterOutprofile image is: https://www.gravatar.com/avatar/bf59ae2c712310a04345ed88349c4342?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 19
+This question was asked by: code_monke with user ID: 20330606
+The title of the question was: 'Trying to run Flask app on PyCharm, getting exit code -1073741571. What&#39;s the issue?'
+The number of views on the question was: 4
+The link to the question is:https://stackoverflow.com/questions/76317354/trying-to-run-flask-app-on-pycharm-getting-exit-code-1073741571-whats-the-is
+The link to code_monkeprofile image is: https://lh3.googleusercontent.com/a/AGNmyxa47dBOi3yweBSCMp_x3dEpK2yEgpQNqzONq5Bt=k-s256
+
+
+Number 20
+This question was asked by: Eli Johnes with user ID: 20330606
+The title of the question was: 'Getting NoClassDefFoundError on application startup ,javax/activation/DataSourcentat'
+The number of views on the question was: 23
+The link to the question is:https://stackoverflow.com/questions/76314435/getting-noclassdeffounderror-on-application-startup-javax-activation-datasource
+The link to Eli Johnesprofile image is: https://www.gravatar.com/avatar/e1da6054a41a9d546db853bfe5082248?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 21
+This question was asked by: heexos with user ID: 20330606
+The title of the question was: 'Stop a function after x seconds in a FastAPI server'
+The number of views on the question was: 627
+The link to the question is:https://stackoverflow.com/questions/71766553/stop-a-function-after-x-seconds-in-a-fastapi-server
+The link to heexosprofile image is: https://lh3.googleusercontent.com/a-/AOh14GgyuFiMdao1xDm4aqGZg2Bf1LDcY5X9mfmuj11l=k-s256
+
+
+Number 22
+This question was asked by: Lulu97 with user ID: 20330606
+The title of the question was: 'Kotlin - Room Database - POJO - Entity class must be annotated with `@Entity`'
+The number of views on the question was: 33
+The link to the question is:https://stackoverflow.com/questions/76315990/kotlin-room-database-pojo-entity-class-must-be-annotated-with-entity
+The link to Lulu97profile image is: https://www.gravatar.com/avatar/08bca631270be385dae0f7cad5ac5320?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 23
+This question was asked by: Christopher Cass with user ID: 20330606
+The title of the question was: 'iMacros Not Recording With SalesForce'
+The number of views on the question was: 3
+The link to the question is:https://stackoverflow.com/questions/76317352/imacros-not-recording-with-salesforce
+The link to Christopher Cassprofile image is: https://graph.facebook.com/10156004697868475/picture?type=large
+
+
+Number 24
+This question was asked by: TotalNewbie with user ID: 20330606
+The title of the question was: 'Populating a select box using JQUERY, AJAX and PHP'
+The number of views on the question was: 73424
+The link to the question is:https://stackoverflow.com/questions/22991067/populating-a-select-box-using-jquery-ajax-and-php
+The link to TotalNewbieprofile image is: https://www.gravatar.com/avatar/e07c85e6fd92862e41d381243e2d4dad?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
+Number 25
+This question was asked by: rajani with user ID: 20330606
+The title of the question was: 'How to reduce splunk costs'
+The number of views on the question was: 3
+The link to the question is:https://stackoverflow.com/questions/76317350/how-to-reduce-splunk-costs
+The link to rajaniprofile image is: https://www.gravatar.com/avatar/04560f11f50f42170dc5954dcd746d41?s=256&d=identicon&r=PG
+
+
+Number 26
+This question was asked by: jgauthier with user ID: 20330606
+The title of the question was: 'Javascript date/time sequence conversion'
+The number of views on the question was: 7
+The link to the question is:https://stackoverflow.com/questions/76317349/javascript-date-time-sequence-conversion
+The link to jgauthierprofile image is: https://www.gravatar.com/avatar/fd282360f3d610f61eeda6170c873047?s=256&d=identicon&r=PG
+
+
+Number 27
+This question was asked by: Ali with user ID: 20330606
+The title of the question was: 'Why is my imputation function not working'
+The number of views on the question was: 10
+The link to the question is:https://stackoverflow.com/questions/76317322/why-is-my-imputation-function-not-working
+The link to Aliprofile image is: https://lh3.googleusercontent.com/a/ALm5wu1uSie3KKNZ0ZVILri7Lq1hFDQ9RrlmFQavfzpU=k-s256
+
+
+Number 28
+This question was asked by: Lahiru Chandima with user ID: 20330606
+The title of the question was: 'What is the default build configuration of cmake'
+The number of views on the question was: 20950
+The link to the question is:https://stackoverflow.com/questions/27086145/what-is-the-default-build-configuration-of-cmake
+The link to Lahiru Chandimaprofile image is: https://www.gravatar.com/avatar/e12a835193e80c39b8483eb90780ff37?s=256&d=identicon&r=PG
+
+
+Number 29
+This question was asked by: Farzam with user ID: 20330606
+The title of the question was: 'C++ string::find complexity'
+The number of views on the question was: 45113
+The link to the question is:https://stackoverflow.com/questions/8869605/c-stringfind-complexity
+The link to Farzamprofile image is: https://www.gravatar.com/avatar/0c41c88167ae3bbad217cfb0657f7707?s=256&d=identicon&r=PG
+
+
+Number 30
+This question was asked by: Matthew Wallace with user ID: 20330606
+The title of the question was: 'How can I stop the text of a button flowing onto a new line in Android?'
+The number of views on the question was: 19
+The link to the question is:https://stackoverflow.com/questions/76307562/how-can-i-stop-the-text-of-a-button-flowing-onto-a-new-line-in-android
+The link to Matthew Wallaceprofile image is: https://www.gravatar.com/avatar/ae404ccf10efec3641c420e147f77ffe?s=256&d=identicon&r=PG&f=y&so-version=2
+
+
