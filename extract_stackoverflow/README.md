@@ -12,6 +12,8 @@
 
 	- Picture of the question
 
+	- Send an email of the received data and attach the PDF file generated.
+
 ## - fpdf was used to create the pdf file, so: py -m pip install fpdf2
 
 ## - in order to display __Unicode characters__ in PDF, use unicode font like Arial that support unicode. Locate fonts in "C:\Windows\Fonts" for windows users
