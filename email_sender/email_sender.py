@@ -4,9 +4,9 @@ import time
 
 #email to send messages to multiple poeple every 2 minutes
 #draft email configuration
-sender = "ayotunde.jerry@gmail.com"
-recepient  = ["ayotunde.jerry@gmail.com","ayotundeadeseyoju@gmail.com","ayotunde.jerry@yahoo.com"]
-password = "vzghwxislirochho"
+sender = "mail@gmail.com"
+recepient  = ["mail1@gmail.com","mail2@gmail.com","mail3@yahoo.com"]
+password = "password"
 subject = "TEST2"
 mail_content = "this is my second message"
 
@@ -19,6 +19,8 @@ message['from'] = sender
 message['to'] = ','.join(recepient)
 message.set_content(mail_content)
 
+# Connect to the Gmail SMTP server and Send Email
+  # Create a secure default settings context
 context = ssl.create_default_context()
 def send_mail():
 

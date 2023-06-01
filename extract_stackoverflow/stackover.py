@@ -2,7 +2,7 @@ import requests
 from fpdf import FPDF
 import time
 
-firstUrl = input('input Stckoverflow API link: ')
+firstUrl = input('input Stckoverflow API endpoint: ')
 secondUrl = "https://api.stackexchange.com/2.3/questions?order=desc&sort=activity&site=stackoverflow"
 
 # Set the proper header to be sent
@@ -44,7 +44,7 @@ def writeToPDF():
 	# Add a PDF page
 	pdf.add_page()
 
-	# set font fill style (using local font style due to unicode character formatting issues)
+	# set font & fill style (using local font style due to unicode character formatting issues)
 	pdf.add_font('Arial','',r"C:\Windows\Fonts\arial.ttf",uni=True)
 	pdf.set_font('Arial', size=10)
 	pdf.set_fill_color(255,255,0)
@@ -90,4 +90,4 @@ outputFile = input('Please type name of file: ')
 pdf.output(outputFile+'.pdf')
 print(f"your file has been saved as {outputFile}.pdf")
 
-time.sleep(10)
+time.sleep(20)
