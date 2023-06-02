@@ -14,8 +14,10 @@
 
 	- Send an email of the received data and attach the PDF file generated.
 
-## - fpdf was used to create the pdf file, so: py -m pip install fpdf2
+## Write another application that sends this generated information as email in HTML format, and attach the PDF file generated. Run as executable
 
-## - in order to display __Unicode characters__ in PDF, use unicode font like Arial that support unicode. Locate fonts in "C:\Windows\Fonts" for windows users
+### - fpdf was used to create the pdf file, so: py -m pip install fpdf2
 
-## - pyinstaller was used to create the exe file, so: py -m pip install pyinstaller; then run pyinstaller --onefile file.py
+### - in order to display __Unicode characters__ in PDF, use unicode font like Arial that support unicode. Locate fonts in "C:\Windows\Fonts" for windows users
+
+### - pyinstaller was used to create the exe file, so: py -m pip install pyinstaller; then run pyinstaller --onefile file.py
