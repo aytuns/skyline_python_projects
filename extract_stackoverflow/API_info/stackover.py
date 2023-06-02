@@ -55,7 +55,7 @@ def writeToPDF():
 	
 	while count <= responseLenght:
 		# write results to PDF
-		print(f"writing to PDF Result: {count}")
+		print(f"writing to PDF Results from stack-overflow API: {count}/{responseLenght}")
 		pdf.cell(w=100,h=5,txt=f"Number {count}",new_x='LMARGIN', new_y='NEXT')
 		pdf.image(w=24,h=24,name=response['items'][count-1]['owner']['profile_image'],alt_text="profile_image")
 		pdf.multi_cell(w=180,h=5,new_x='LMARGIN', new_y='NEXT',
